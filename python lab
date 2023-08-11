@@ -1,0 +1,12 @@
+print("Hello World. This is my first Python program.")
+
+print("Knock Knock")
+print("Who's there?")
+print("Kanga")
+print("Kanga who?")
+print("Kangaroo")
+
+print("Lorrie," *6)
+
+print("super," *8 + "cool")
+
